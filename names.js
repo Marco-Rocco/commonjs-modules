@@ -1,7 +1,7 @@
 function person(firstName, lastName) {
     return {
-        'first name' : firstName,
-        'last name' : lastName
+        'firstName' : firstName,
+        'lastName' : lastName
     };
 }; 
 
